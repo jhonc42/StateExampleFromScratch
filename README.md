@@ -1,5 +1,3 @@
-# Código fuente de mi curso de Introducción a la Concurrencia en C#
+# Example of State Machine without libraries
 
-En este curso aprenderás a utilizar programación asíncrona y paralelismo en C#.
-
-Link del curso: https://www.udemy.com/course/introduccion-a-la-concurrencia-en-c-async-y-paralelismo/?referralCode=8E12A2CB50D707DDC9F3
+An example about state machine from scratch with tuplas, is about a telephone state and how this object pass through different states.
