@@ -1,0 +1,13 @@
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\bin\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.exe
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\bin\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.deps.json
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\bin\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.runtimeconfig.json
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\bin\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.runtimeconfig.dev.json
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\bin\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.dll
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\bin\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.pdb
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\obj\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.csprojAssemblyReference.cache
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\obj\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.csproj.CoreCompileInputs.cache
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\obj\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.AssemblyInfoInputs.cache
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\obj\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.AssemblyInfo.cs
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\obj\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.dll
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\obj\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.pdb
+D:\Proyectos\PATTERNSTATEFromScratch\PATTERNSTATEFromScratch\obj\Debug\netcoreapp3.1\PATTERNSTATEFromScratch.genruntimeconfig.cache
